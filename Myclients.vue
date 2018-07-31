@@ -115,7 +115,7 @@
                                             </div>
                                             <hr class="rulerourtema">
                                             <div class="imgeourteamperson2"> <img src="img/testi_07.png"> </div>
-                                            <h3 class="ourteamjopposition22 text-center2 col97be2e">Amanda Sun </h3>
+                                            <h3 class="ourteamjopposition22 text-center2 col97be2e">Lewis Orenge </h3>
                                             <div class="clHover">
                                                 <div class="col-md-12"> <a class="hover-eye" data-toggle="tooltip" title="" data-original-title="View Detail"><i class="fa fa-eye"></i></a>
                                                     <button class="hover-eye fa fa-trash" id="deleteClient6" data-toggle="modal" data-target="#deleteClientmodel" title="Remove"></button>
