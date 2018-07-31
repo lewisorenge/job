@@ -10,7 +10,7 @@
                                         <i class="material-icons">assignment</i>
                                     </div>
                                     <div class="card-content">
-                                        <h4 class="card-title">Simple Table</h4>
+                                        <h4 class="card-title"> Table</h4>
                                         <div class="table-responsive">
                                             <table class="table">
                                                 <thead>
