@@ -17,7 +17,7 @@
                                                 <div class="imgeourteamperson"><img src="img/testi_07.png">
                                                 </div>
                                                 <h3 class="ourteamjopposition text-center2">Web Developer </h3>
-                                                <h3 class="ourteamviewmore text-center2">More description
+                                                <h3 class="ourteamviewmore text-center2"> description
                                                 here </h3>
                                                 <div class="clHover">
                                                     <div class="col-md-12">
