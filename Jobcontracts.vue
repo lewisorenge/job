@@ -82,7 +82,7 @@
                                         <div class="col-sm-3 brdRight no-padmr" style=" margin-top: 10px;">
                                             <div class="col-lg-6 no-padmr"> <img src="img/testi_03.png" alt="" class="projectImg no-padmr"> </div>
                                             <div class="col-lg-6 ad-padmr" style="">
-                                                <p class="mrgn0"> Name
+                                                <p class="mrgn0">Employer Name
                                                     <br>
                                                 </p>
                                             </div>
