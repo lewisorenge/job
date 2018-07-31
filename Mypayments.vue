@@ -268,7 +268,7 @@
                                     <h2 class="text-center2">2</h2>
                                 </div>
                                 <div class="col-lg-4" style=" background-color: white;">
-                                    <h2 class="text-center2 paymenfont2">Denied Release Request</h2>
+                                    <h2 class="text-center2 paymenfont2">Denied  Request</h2>
                                     <hr class="pauruler2">
                                     <h2 class="text-center2">8</h2>
                                 </div>
