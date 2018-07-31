@@ -140,7 +140,7 @@
                                                 <br><span class="label label-default vd_bg-gray vd_white">Offer</span></p>
                                         </div>
                                         <div class="col-sm-2 brdRight">
-                                            <h4>Job Budget</h4>
+                                            <h4> Budget</h4>
                                             <p class="mrgn0">Budget:
                                                 <br><span class="label label-default vd_bg-blue vd_white">2.500 €</span> </p>
                                             <p class="mrgn0">Type:
