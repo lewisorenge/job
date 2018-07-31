@@ -54,7 +54,7 @@
                                                 <hr class="rulerourtema">
                                                 <div class="imgeourteamperson22"> <img src="img/header/logo_2.jpg" style="width:100%;height:100%"> </div>
                                                 <h3 class="ourteamjopposition22 text-center2 col97be2e">Amanda Sun </h3>
-                                                <h3 class="ourteamjopposition222 text-center2">Looking blog writer for our blog </h3>
+                                                <h3 class="ourteamjopposition222 text-center2">blog writer for our blog </h3>
                                                 <div class="clHover">
                                                     <div class="col-md-12"> <a class="hover-eye" data-toggle="tooltip" title="" data-original-title="View Detail"><i class="fa fa-eye"></i></a>
                                                         <button class="hover-eye fa fa-trash" id="deleteClient3" data-toggle="modal" data-target="#deleteClientmodel" title="Remove"></button>
