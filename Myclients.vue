@@ -53,7 +53,7 @@
                                                 </div>
                                                 <hr class="rulerourtema">
                                                 <div class="imgeourteamperson22"> <img src="img/header/logo_2.jpg" style="width:100%;height:100%"> </div>
-                                                <h3 class="ourteamjopposition22 text-center2 col97be2e">Amanda Sun </h3>
+                                                <h3 class="ourteamjopposition22 text-center2 col97be2e">Amanda Orenge </h3>
                                                 <h3 class="ourteamjopposition222 text-center2">blog writer for blog </h3>
                                                 <div class="clHover">
                                                     <div class="col-md-12"> <a class="hover-eye" data-toggle="tooltip" title="" data-original-title="View Detail"><i class="fa fa-eye"></i></a>
