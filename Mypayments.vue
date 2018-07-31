@@ -32,7 +32,7 @@
                                         <div>
                                             <h2 class="text-center2 paymenfont">On Milestone</h2>
                                             <hr class="pauruler">
-                                            <h2 class="text-center2">5000.€</h2>
+                                            <h2 class="text-center2">50.€</h2>
                                         </div>
                                     </div>
                                 </div>
