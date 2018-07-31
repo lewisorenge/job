@@ -32,7 +32,7 @@
                                                 <br><span class="label label-default vd_bg-gray vd_white">Fix / Hourly</span> </p>
                                         </div>
                                         <div class="col-sm-2 brdRight">
-                                            <h4>Work Start</h4>
+                                            <h4>Job Start</h4>
                                             <p class="mrgn0">Startdate:
                                                 <br><span class="label label-default vd_bg-blue vd_white">05-07-2017</span></p>
                                             <p class="mrgn0">Deliverdate:
