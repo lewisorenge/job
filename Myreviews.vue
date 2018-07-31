@@ -49,7 +49,7 @@
                                                 <i class="fa fa-star"></i>
                                             </div>
                                         </div>
-                                        <div class="companyjobs">Total Jobs
+                                        <div class="companyjobs"> Jobs
                                             <br/>
                                             <br/>150</div>
                                         <div class="companyreview">Total Review
