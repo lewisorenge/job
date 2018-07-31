@@ -15,7 +15,7 @@
                                         </div>
                                         <div class="col-sm-2 brdRight brdLeft" style="padding-right:10px;padding-left:10px;&nbsp;padding-top: 10px; width: 31%;height: 112px;">
                                             <h4 style="margin-top: 10px;">Job Title</h4>
-                                            <p>Mohamed alaa is a really skilled freelancer.His    . </p>
+                                            <p>Mohamed alaa is a really skilled freelancer.   . </p>
                                         </div>
                                         <!-- <div class="col-sm-1 brdRight" style="&nbsp;padding-top: 10px;width:11%;height: 112px;"> <h4 style="font-size:15px;margin-top: 0;">Options</h4> <p class="mrgn5" data-toggle="modal" data-target="#viewreview" style="margin-bottom: 14px; margin-top: 21px;"><span class="label label-default vd_white" style="6px 15px 6px 13px;font-size:14px;font-family: monospace; border-radius: 4px !important;background:rgba(151, 190, 46, 0.72);">View</span></p></div>-->
                                         <div class="col-sm-2 " style="padding-left:6%;width:35%; padding-top: 10px;height: 112px;">
