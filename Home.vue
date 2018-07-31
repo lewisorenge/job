@@ -133,7 +133,7 @@
                                     </div>
                                     <div class="row margin6 projectRow2 vd_bg-light-grey vd_bdl-yellow brdl4">
                                         <div class="col-sm-12">
-                                            <div class="col-sm-3" style="margin-top:-12px">Task Title</div>
+                                            <div class="col-sm-3" style="margin-top:-12px">Work Title</div>
                                             <div class="col-sm-6">
                                                 <div class="progress yellow">
                                                     <div class="progress-bar" style="width:75%; background:#e8d324;">
