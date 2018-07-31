@@ -86,7 +86,7 @@
                                 </div>
                                 <div class="col-sm-2 brdRight" style="height: 72px;width:14%">
                                     <h4 style="font-size:18px" class="text-center2">Job Title</h4>
-                                    <p class="mrgn5 text-center2">Job ID</p>
+                                    <p class="mrgn5 text-center2">Work ID</p>
                                 </div>
                                 <div class="col-sm-2 brdRight" style="width:12%; height:  72px;">
                                     <h4 class="text-center2">Task Done</h4>
