@@ -13,13 +13,13 @@
                             <p class="category">Used Space</p>
                             <h3 class="title">
                             49/50
-                            <small>GB</small>
+                            <small></small>
                         </h3>
                         </div>
                         <div class="card-footer">
                             <div class="stats">
                                 <i class="material-icons text-danger">warning</i>
-                                <a href="dashboard.html#pablo">Get More Space...</a>
+                                <a href="dashboard.html#pablo">Get More Space</a>
                             </div>
                         </div>
                     </div>
