@@ -23,7 +23,7 @@
                                         <p class="mrgn5">05-07-2017 12:05:00</p>
                                     </div>
                                     <div class="col-sm-2 brdRight" style=" height: 110px;">
-                                        <h4>Wish Appointment</h4>
+                                        <h4> Appointment</h4>
                                         <p class="mrgn5">05-07-2017 12:05:00</p>
                                     </div>
                                     <div class="col-sm-3 brdRight" style="width:21%; height: 110px;">
