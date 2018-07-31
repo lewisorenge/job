@@ -8,7 +8,7 @@
                             <div class="vd_status-widget widget dashboardPanel">
                                 <div class="panel-body vd_blue pd-5">
                                     <div class="clearfix">
-                                        <div class="menu-text clearfix">Income This </div>
+                                        <div class="menu-text clearfix">Income  </div>
                                         <br><span class="company-value">25.000 €</span>
                                     </div>
                                 </div>
