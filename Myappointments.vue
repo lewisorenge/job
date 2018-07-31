@@ -12,9 +12,9 @@
                                             <img src="img/testi_03.png" alt="" class="">
                                         </div>
                                         <div class="col-lg-6">
-                                            <p class="mrgn0">User ID: <span class="label label-default vd_bg-green vd_white">1122445669</span>
+                                            <p class="mrgn0"> ID: <span class="label label-default vd_bg-green vd_white">1122445669</span>
                                             </p>
-                                            <p class="mrgn0">User Name: <span class="label label-default vd_bg-green vd_white">Mohamed alaa</span>
+                                            <p class="mrgn0"> Name: <span class="label label-default vd_bg-green vd_white">Mohamed alaa</span>
                                             </p>
                                         </div>
                                     </div>
