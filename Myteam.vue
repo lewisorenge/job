@@ -36,7 +36,7 @@
                                                 <hr class="rulerourtema">
                                                 <div class="imgeourteamperson"><img src="img/testi_07.png">
                                                 </div>
-                                                <h3 class="ourteamjopposition text-center2">Web Developer </h3>
+                                                <h3 class="ourteamjopposition text-center2"> Developer </h3>
                                                 <h3 class="ourteamviewmore text-center2">More description
                                                 here </h3>
                                                 <div class="clHover">
