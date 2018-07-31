@@ -9,7 +9,7 @@
                                 <div class="pamentstats">
                                     <div class="col-lg-3">
                                         <div>
-                                            <h2 class="text-center2 paymenfont">Total Open Jobs</h2>
+                                            <h2 class="text-center2 paymenfont"> Open Jobs</h2>
                                             <hr class="pauruler">
                                             <h2 class="text-center2">10</h2>
                                         </div>
