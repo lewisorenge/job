@@ -82,7 +82,7 @@
                                 <div class="col-sm-2 brdRight" style=" height:  72px;width:14%">
                                     <h4 class="text-center2">Employer</h4>
                                     <p class="mrgn0" style="text-align:center;margin-top:15px !important;">
-                                        <span class=""> Mohammad</span></p>
+                                        <span class=""> Lewis</span></p>
                                 </div>
                                 <div class="col-sm-2 brdRight" style="height: 72px;width:14%">
                                     <h4 style="font-size:18px" class="text-center2">Job Title</h4>
