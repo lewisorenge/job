@@ -43,7 +43,7 @@
                                         <div class="companyinfo">
                                             <img width="200" height="30" src="img/testi_10.png" />
                                             <div class="companytitle">
-                                                Company Name Gmbh
+                                                Company Name 
                                                 <br/>
                                                 <br/><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
