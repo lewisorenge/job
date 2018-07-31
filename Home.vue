@@ -43,7 +43,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="card card-stats">
                         <div class="card-header" data-background-color="red">
-                            <i class="material-icons">info_outline</i>
+                            <i class="material-icons">infooutline</i>
                         </div>
                         <div class="card-content">
                             <p class="category">Fixed Issues</p>
