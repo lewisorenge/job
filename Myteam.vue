@@ -317,7 +317,7 @@
                                             <div class="abslt-text">
                                                 <h4>Document Name</h4>
                                                 <p>Sub Title</p>
-                                                <span>1 Document</span>
+                                                <span> Document</span>
                                             </div>
                                         </a>
                                         </div>
