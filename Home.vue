@@ -63,7 +63,7 @@
                         </div>
                         <div class="card-content">
                             <p class="category">Followers</p>
-                            <h3 class="title">+245</h3>
+                            <h3 class="title">+254</h3>
                         </div>
                         <div class="card-footer">
                             <div class="stats">
