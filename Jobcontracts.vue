@@ -89,7 +89,7 @@
                                         </div>
                                         <div class="col-sm-3 brdRight ">
                                             <h4 style="font-size:15px">Design Concept</h4>
-                                            <p class="mrgn5">Start: 05-07-2017</p>
+                                            <p class="mrgn5">Start: 05-07-2018</p>
                                             <p class="mrgn5"><span class="label label-default vd_bg-blue vd_white">In Progress</span></p>
                                         </div>
                                         <div class="col-sm-2 brdRight">
