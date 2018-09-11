@@ -106,7 +106,7 @@
                                             <p class="mrgn5"><span class="label label-default vd_bg-blue vd_white">1</span> Behind</p>
                                         </div>
                                         <div class="col-sm-2">
-                                            <h4 style="font-size:15px;">Release Request</h4>
+                                            <h4 style="font-size:15px;">Release a Request</h4>
                                             <p class="mrgn5" data-toggle="modal" data-target="#ReleaseRequestsent" style="margin-bottom: 14px;"><span class="label label-default vd_bg-blue vd_white" style="padding:4px;font-size:14px;font-family: monospace; border-radius: 4px !important;">Sent Request</span></p>
                                             <p class="mrgn5" data-toggle="modal" data-target="#ReleaseRequestview"><span class="label label-default vd_bg-blue vd_white" style="padding:4px;font-size:14px;font-family: monospace; border-radius: 4px !important;">View Request</span></p>
                                         </div>
@@ -197,7 +197,7 @@
                                             <p class="mrgn5"><span class="label label-default vd_bg-blue vd_white">1</span> Behind</p>
                                         </div>
                                         <div class="col-sm-1 brdRight" style=" margin-top: 10px;width:20%;height:106px">
-                                            <h4>Total earn</h4>
+                                            <h4>Total earnings</h4>
                                             <h5>400$</h5>
                                         </div>
                                         <div class="col-sm-1 " style=" margin-top: 10px;width:20%;height:106px">
