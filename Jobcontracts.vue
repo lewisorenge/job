@@ -101,7 +101,7 @@
                                             </div>
                                         </div>
                                         <div class="col-sm-2 brdRight">
-                                            <h4>All Tasks</h4>
+                                            <h4>All of the Tasks</h4>
                                             <p class="mrgn5" style="margin-bottom:0px;"><span class="label label-default vd_bg-blue vd_white">0</span> Pending</p>
                                             <p class="mrgn5"><span class="label label-default vd_bg-blue vd_white">1</span> Behind</p>
                                         </div>
